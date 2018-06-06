@@ -2,23 +2,51 @@
   "leaderboard": [
     {
       "name": "Dharmaraja", 
-      "score": 5926.10870252204
+      "score": 6284.90431462688
     }, 
     {
       "name": "Students of Plato", 
-      "score": 5516.91544235311
+      "score": 5815.50980397441
     }, 
     {
       "name": "mistake", 
-      "score": 5385.88355962225
+      "score": 5554.84553405454
+    }, 
+    {
+      "name": "whatever", 
+      "score": 5365.35995544418
+    }, 
+    {
+      "name": "QPHutu", 
+      "score": 5360.19759819631
+    }, 
+    {
+      "name": "KPHZITTN", 
+      "score": 5313.10085520465
+    }, 
+    {
+      "name": "InsPK", 
+      "score": 5293.74246077706
+    }, 
+    {
+      "name": "aborg", 
+      "score": 5243.95033274651
+    }, 
+    {
+      "name": "SBT", 
+      "score": 4936.6179538625
     }, 
     {
       "name": "random_baseline", 
-      "score": 5184.90158825344
+      "score": 4923.40802231095
     }, 
     {
       "name": "Tails", 
       "score": 4898.82558266693
+    }, 
+    {
+      "name": "linshi", 
+      "score": 4874.26705826675
     }, 
     {
       "name": "AI-IPAC", 
@@ -29,52 +57,56 @@
       "score": 4835.92741233352
     }, 
     {
-      "name": "aborg", 
-      "score": 4733.63403307607
+      "name": "gelo2000", 
+      "score": 4683.12117423362
+    }, 
+    {
+      "name": "death_egg", 
+      "score": 4654.716469873
+    }, 
+    {
+      "name": "hhh", 
+      "score": 4632.04984400453
+    }, 
+    {
+      "name": "LionFish_plays_sonic", 
+      "score": 4625.40429900559
+    }, 
+    {
+      "name": "GoSmDoChi", 
+      "score": 4613.92389860856
+    }, 
+    {
+      "name": "kurbatsky", 
+      "score": 4568.09996300643
     }, 
     {
       "name": "marcinic", 
       "score": 4541.39987787718
     }, 
     {
-      "name": "QPHutu", 
-      "score": 4454.80248907681
+      "name": "Blanyal", 
+      "score": 4499.17878541744
     }, 
     {
-      "name": "boltz-fam", 
-      "score": 4452.89962757869
-    }, 
-    {
-      "name": "GoSmDoChi", 
-      "score": 4380.96511406474
+      "name": "adam", 
+      "score": 4365.47674295713
     }, 
     {
       "name": "Booker", 
       "score": 4365.03506128339
     }, 
     {
-      "name": "AgentSolo", 
-      "score": 4354.68497716348
-    }, 
-    {
-      "name": "adam", 
-      "score": 4334.4124912447
-    }, 
-    {
-      "name": "TeamWilliam", 
-      "score": 4322.42049843658
+      "name": "LONG_SONIC", 
+      "score": 4296.34617115945
     }, 
     {
       "name": "Modulabs", 
       "score": 4293.70872337886
     }, 
     {
-      "name": "SBT", 
-      "score": 4285.03378612204
-    }, 
-    {
-      "name": "souffle", 
-      "score": 4283.52667961309
+      "name": "To the Moon", 
+      "score": 4280.10916329058
     }, 
     {
       "name": "Tensor the Hedgehog (Original Character Do Not Steal)", 
@@ -85,12 +117,36 @@
       "score": 4227.96583033258
     }, 
     {
+      "name": "topologic", 
+      "score": 4227.61885325079
+    }, 
+    {
+      "name": "Bobcats", 
+      "score": 4223.45705491239
+    }, 
+    {
       "name": "BrokenRobot", 
       "score": 4204.25311902294
     }, 
     {
+      "name": "Blank", 
+      "score": 4198.85155414481
+    }, 
+    {
       "name": "2 men 1 shell", 
       "score": 4164.99148637192
+    }, 
+    {
+      "name": "hsingh", 
+      "score": 4161.2642770351
+    }, 
+    {
+      "name": "Puffington", 
+      "score": 4152.70171073251
+    }, 
+    {
+      "name": "Herg", 
+      "score": 4151.85846433948
     }, 
     {
       "name": "Josh Zhanson", 
@@ -105,40 +161,32 @@
       "score": 4099.73458098503
     }, 
     {
-      "name": "To the Moon", 
-      "score": 4095.28240428964
+      "name": "Ministry of Silly Jumps", 
+      "score": 4097.93267187265
     }, 
     {
       "name": "Aaron Mehta", 
       "score": 4092.80148717886
     }, 
     {
-      "name": "Herg", 
-      "score": 4067.45847263553
-    }, 
-    {
-      "name": "albert", 
-      "score": 4064.75727399433
-    }, 
-    {
       "name": "GeneralRobot", 
       "score": 4040.03613675719
     }, 
     {
-      "name": "hhh", 
-      "score": 4025.48893108925
+      "name": "souffle", 
+      "score": 4032.91793061226
     }, 
     {
       "name": "Breakfast Club", 
       "score": 4025.13864634217
     }, 
     {
-      "name": "LionFish_plays_sonic", 
-      "score": 4010.90771256009
-    }, 
-    {
       "name": "robotgogo", 
       "score": 4004.20868158153
+    }, 
+    {
+      "name": "Alex", 
+      "score": 3990.39201820731
     }, 
     {
       "name": "Broadsword", 
@@ -149,8 +197,16 @@
       "score": 3977.80713023867
     }, 
     {
-      "name": "Blanyal", 
-      "score": 3961.58546552141
+      "name": "AgentSolo", 
+      "score": 3963.23683889859
+    }, 
+    {
+      "name": "albert", 
+      "score": 3948.80207522266
+    }, 
+    {
+      "name": "Warlock", 
+      "score": 3948.59863377556
     }, 
     {
       "name": "Eggmen", 
@@ -169,14 +225,6 @@
       "score": 3914.87441311363
     }, 
     {
-      "name": "Bobcats", 
-      "score": 3903.90798582628
-    }, 
-    {
-      "name": "sada", 
-      "score": 3898.21402025151
-    }, 
-    {
       "name": "HAL", 
       "score": 3886.09896435423
     }, 
@@ -189,24 +237,12 @@
       "score": 3875.81852091457
     }, 
     {
-      "name": "Warlock", 
-      "score": 3872.64877443788
-    }, 
-    {
       "name": "First floor to eat Latiao", 
       "score": 3864.11200762814
     }, 
     {
-      "name": "marc.ai", 
-      "score": 3864.00108389098
-    }, 
-    {
       "name": "benchaffe", 
       "score": 3860.6028905689
-    }, 
-    {
-      "name": "RL De Wei", 
-      "score": 3854.73020691446
     }, 
     {
       "name": "Ulstu", 
@@ -225,6 +261,10 @@
       "score": 3836.13337079924
     }, 
     {
+      "name": "Mach One", 
+      "score": 3825.330895861
+    }, 
+    {
       "name": "mathaion", 
       "score": 3820.91535248812
     }, 
@@ -233,12 +273,12 @@
       "score": 3818.45276436364
     }, 
     {
-      "name": "Naive Bayes", 
-      "score": 3817.84699580151
-    }, 
-    {
       "name": "scitator", 
       "score": 3812.85458555464
+    }, 
+    {
+      "name": "OuchyPassenger", 
+      "score": 3795.42173818768
     }, 
     {
       "name": "lmao", 
@@ -249,8 +289,8 @@
       "score": 3772.25729656053
     }, 
     {
-      "name": "Alex", 
-      "score": 3771.85942429402
+      "name": "seungjaeryanlee", 
+      "score": 3771.36743249141
     }, 
     {
       "name": "mulZomdaoEmiya", 
@@ -261,12 +301,24 @@
       "score": 3761.73110884596
     }, 
     {
+      "name": "KH.Bernstein", 
+      "score": 3760.09658435093
+    }, 
+    {
+      "name": "RL De Wei", 
+      "score": 3760.08581057849
+    }, 
+    {
       "name": "kimbring2", 
       "score": 3758.51991518363
     }, 
     {
-      "name": "bug", 
-      "score": 3753.54070465801
+      "name": "hiram", 
+      "score": 3755.53524606375
+    }, 
+    {
+      "name": "gapo", 
+      "score": 3739.10365865069
     }, 
     {
       "name": "Sargnarg", 
@@ -297,10 +349,6 @@
       "score": 3695.50441971521
     }, 
     {
-      "name": "InsPK", 
-      "score": 3691.57030782702
-    }, 
-    {
       "name": "DRL", 
       "score": 3689.15213340238
     }, 
@@ -317,52 +365,44 @@
       "score": 3649.76255892108
     }, 
     {
+      "name": "ABA", 
+      "score": 3649.68169806645
+    }, 
+    {
       "name": "Vladislav Kurenkov", 
       "score": 3644.98492781341
+    }, 
+    {
+      "name": "Juomaru", 
+      "score": 3628.95456404359
     }, 
     {
       "name": "PinkVomit", 
       "score": 3614.13523690584
     }, 
     {
-      "name": "gapo", 
-      "score": 3611.66820459741
-    }, 
-    {
       "name": "ishizaki", 
       "score": 3609.97470072124
     }, 
     {
-      "name": "lightspeed", 
-      "score": 3598.12786419645
-    }, 
-    {
-      "name": "KH.Bernstein", 
-      "score": 3595.9011988941
+      "name": "EVA", 
+      "score": 3607.49471289677
     }, 
     {
       "name": "ToTheArcade@2TP", 
       "score": 3595.63557277257
     }, 
     {
-      "name": "whatever", 
-      "score": 3574.31665186067
-    }, 
-    {
-      "name": "seungjaeryanlee", 
-      "score": 3559.78692976999
+      "name": "Naive Bayes", 
+      "score": 3591.38525991098
     }, 
     {
       "name": "SuperSonic", 
       "score": 3525.83533036279
     }, 
     {
-      "name": "Sonic", 
-      "score": 3523.43847533208
-    }, 
-    {
-      "name": "pancoast.3", 
-      "score": 3506.02189707651
+      "name": "AurelianTactics", 
+      "score": 3490.54467904069
     }, 
     {
       "name": "Hanka Precision Instruments", 
@@ -373,6 +413,10 @@
       "score": 3473.00613670763
     }, 
     {
+      "name": "pancoast.3", 
+      "score": 3467.43845918173
+    }, 
+    {
       "name": "Lvk", 
       "score": 3460.01839375374
     }, 
@@ -381,8 +425,16 @@
       "score": 3453.18536908233
     }, 
     {
+      "name": "Timur & Co", 
+      "score": 3445.20747952561
+    }, 
+    {
       "name": "homeobox", 
       "score": 3443.59342666461
+    }, 
+    {
+      "name": "Gardeners", 
+      "score": 3440.69155698821
     }, 
     {
       "name": "DD-WOW", 
@@ -393,8 +445,16 @@
       "score": 3410.63101150001
     }, 
     {
+      "name": "Sonic", 
+      "score": 3386.33950983951
+    }, 
+    {
       "name": "TMG", 
       "score": 3384.33783277684
+    }, 
+    {
+      "name": "Dorgo", 
+      "score": 3375.70029900935
     }, 
     {
       "name": "Kaimaron", 
@@ -425,32 +485,36 @@
       "score": 3180.91165778983
     }, 
     {
-      "name": "OishiiDango", 
-      "score": 3147.16350824185
+      "name": "Nehhhhz", 
+      "score": 3137.47288108346
     }, 
     {
-      "name": "G\u00e9n\u00e9ral Sonic", 
-      "score": 3036.72487240859
+      "name": "marc.ai", 
+      "score": 3011.34323389815
+    }, 
+    {
+      "name": "tianzhen", 
+      "score": 2985.18945700092
     }, 
     {
       "name": "Vector", 
       "score": 2975.44555025559
     }, 
     {
-      "name": "ShrubPig", 
-      "score": 2966.20667136222
-    }, 
-    {
       "name": "Kavish", 
       "score": 2869.29245610543
+    }, 
+    {
+      "name": "TeamName", 
+      "score": 2845.1725802656
     }, 
     {
       "name": "Black", 
       "score": 2815.33990826464
     }, 
     {
-      "name": "Puffington", 
-      "score": 2790.93776005324
+      "name": "ShrubPig", 
+      "score": 2792.04078418388
     }, 
     {
       "name": "albertwujj", 
@@ -465,20 +529,20 @@
       "score": 2602.38826848281
     }, 
     {
-      "name": "kurbatsky", 
-      "score": 2598.87804288824
-    }, 
-    {
       "name": "TGower", 
       "score": 2552.1570756931
     }, 
     {
-      "name": "Vogen", 
-      "score": 2488.34521513774
+      "name": "BeginnerNo1", 
+      "score": 2520.52138524061
     }, 
     {
-      "name": "linshi", 
-      "score": 2447.9229050093
+      "name": "SonicB00M", 
+      "score": 2518.56907684722
+    }, 
+    {
+      "name": "Vogen", 
+      "score": 2488.34521513774
     }, 
     {
       "name": "DeadAi", 
@@ -493,28 +557,32 @@
       "score": 2426.94462116779
     }, 
     {
-      "name": "Nehhhhz", 
-      "score": 2423.40712370773
-    }, 
-    {
       "name": "wulfebw", 
       "score": 2417.71230251073
     }, 
     {
-      "name": "hsingh", 
-      "score": 2387.1833709224
+      "name": "The One", 
+      "score": 2399.4986789263
     }, 
     {
       "name": "ThyrixYang", 
       "score": 2345.06020766756
     }, 
     {
-      "name": "Spica", 
-      "score": 2308.35565812587
+      "name": "sada", 
+      "score": 2306.65898739686
     }, 
     {
       "name": "drw", 
       "score": 2253.44316955402
+    }, 
+    {
+      "name": "bug", 
+      "score": 2248.81185324188
+    }, 
+    {
+      "name": "TeamWilliam", 
+      "score": 2240.86200982414
     }, 
     {
       "name": "The Hoos", 
@@ -525,12 +593,8 @@
       "score": 2235.59935678573
     }, 
     {
-      "name": "Gardeners", 
-      "score": 2222.67843950169
-    }, 
-    {
-      "name": "hiram", 
-      "score": 2173.27610517365
+      "name": "Nachtigall", 
+      "score": 2202.16818633055
     }, 
     {
       "name": "Alvaro", 
@@ -545,12 +609,28 @@
       "score": 2016.20066202034
     }, 
     {
-      "name": "EVA", 
-      "score": 1929.02453730912
+      "name": "hallucinator", 
+      "score": 2009.01746093441
+    }, 
+    {
+      "name": "GAN-Bros", 
+      "score": 1945.25873193049
+    }, 
+    {
+      "name": "Team Jonas", 
+      "score": 1901.86855306482
     }, 
     {
       "name": "win_retro", 
       "score": 1894.12243436986
+    }, 
+    {
+      "name": "Ako", 
+      "score": 1892.17018961076
+    }, 
+    {
+      "name": "lightspeed", 
+      "score": 1833.78841634602
     }, 
     {
       "name": "lyons", 
@@ -565,6 +645,10 @@
       "score": 1791.67820666376
     }, 
     {
+      "name": "G\u00e9n\u00e9ral Sonic", 
+      "score": 1775.27773828506
+    }, 
+    {
       "name": "DeepDecision", 
       "score": 1722.3146294029
     }, 
@@ -577,14 +661,6 @@
       "score": 1466.37885662758
     }, 
     {
-      "name": "hallucinator", 
-      "score": 1413.0978366566
-    }, 
-    {
-      "name": "OuchyPassenger", 
-      "score": 1408.45485894336
-    }, 
-    {
       "name": "Applied Data Science", 
       "score": 1388.21533893473
     }, 
@@ -595,18 +671,6 @@
     {
       "name": "Altered Beast", 
       "score": 1377.80241522685
-    }, 
-    {
-      "name": "Juomaru", 
-      "score": 1373.79016131723
-    }, 
-    {
-      "name": "TeamName", 
-      "score": 1371.52412381513
-    }, 
-    {
-      "name": "zeta", 
-      "score": 1370.5625493395
     }, 
     {
       "name": "Tiger", 
@@ -653,10 +717,6 @@
       "score": 1360.27036784937
     }, 
     {
-      "name": "NaiveAgent", 
-      "score": 1358.70861546994
-    }, 
-    {
       "name": "csh", 
       "score": 1356.86866740131
     }, 
@@ -665,12 +725,16 @@
       "score": 1356.3315566257
     }, 
     {
+      "name": "ai-high", 
+      "score": 1355.84686049165
+    }, 
+    {
       "name": "Wok", 
       "score": 1355.82681654323
     }, 
     {
-      "name": "GAN-Bros", 
-      "score": 1355.14820442347
+      "name": "IU", 
+      "score": 1355.64739414246
     }, 
     {
       "name": "Aditya Singh", 
@@ -691,10 +755,6 @@
     {
       "name": "vegeta", 
       "score": 1351.92072463591
-    }, 
-    {
-      "name": "death_egg", 
-      "score": 1350.24176696095
     }, 
     {
       "name": "deep blockchain quantum ai", 
@@ -729,10 +789,6 @@
       "score": 1344.02723642069
     }, 
     {
-      "name": "Ako", 
-      "score": 1344.01995804313
-    }, 
-    {
       "name": "weichseltree", 
       "score": 1343.58185172666
     }, 
@@ -743,6 +799,10 @@
     {
       "name": "Team Boon", 
       "score": 1342.75401971248
+    }, 
+    {
+      "name": "air", 
+      "score": 1342.28669384678
     }, 
     {
       "name": "DeepLearningHK", 
@@ -785,10 +845,6 @@
       "score": 1335.76372326923
     }, 
     {
-      "name": "Mach One", 
-      "score": 1335.26906144103
-    }, 
-    {
       "name": "Audio", 
       "score": 1333.92442829694
     }, 
@@ -797,8 +853,20 @@
       "score": 1332.03287234805
     }, 
     {
+      "name": "eyelashprince", 
+      "score": 1330.85144796298
+    }, 
+    {
+      "name": "isp1tze", 
+      "score": 1330.02991653204
+    }, 
+    {
       "name": "Daz", 
       "score": 1329.77781720278
+    }, 
+    {
+      "name": "Spica.ai", 
+      "score": 1329.1309557381
     }, 
     {
       "name": "Waddles", 
@@ -809,12 +877,20 @@
       "score": 1318.06895354987
     }, 
     {
-      "name": "topologic", 
-      "score": 1310.43829557862
+      "name": "gotta_learn_fast", 
+      "score": 1026.67500164078
     }, 
     {
       "name": "makslane", 
       "score": 1005.02905271185
+    }, 
+    {
+      "name": "whatisdata", 
+      "score": 841.353511416913
+    }, 
+    {
+      "name": "zeta", 
+      "score": 723.887303188557
     }, 
     {
       "name": "AlphaSonic", 
@@ -825,8 +901,12 @@
       "score": 613.75684790905
     }, 
     {
-      "name": "Blank", 
-      "score": 2.38817281723022
+      "name": "boltz-fam", 
+      "score": 519.811250969293
+    }, 
+    {
+      "name": "V-A-P", 
+      "score": 215.590493967339
     }
   ], 
   "start": 1
